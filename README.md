@@ -2,7 +2,7 @@
 
 ### **Design of my home microwave**
 
-
+<img src ="./assets/microwave.gif"width="50%">
 
 ### **Issues with the current design**
 - Sleek design removes the separation between each of the buttons
