@@ -50,3 +50,6 @@ The current design does not have any features that support disabled individuals.
 width="70%">
 
 My design incorporated the positive features from my microwave and got rid of unnecessary functions. Instead of having a flat interface, my microwave design has individual buttons so it is easier to navigate especially for disabled individuals. My design would also have elevated letters or numbers so that a person could distinguish the characters without looking. I found the cook, cook time, reheat buttons redundant or unnecessary so I removed them entirely. It is very common to have shortcut buttons for common foods so I included buttons for those. I color coded them to stand out from the numbered buttons. I used icons to simplify the buttons design, and added an ad 30 seconds button since it’s the most commonly used button.
+
+### **Demo Link:**
+[YouTube Link](https://www.youtube.com/watch?v=pOzL7txtNkQ&feature=youtu.be&ab_channel=EricSantana)
