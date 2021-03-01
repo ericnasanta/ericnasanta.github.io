@@ -1,9 +1,9 @@
-# ericnasanta.github.io
+# p1 Eric Santana
 
 ### **Design of my home microwave**
 
 <img src = "./assets/microwave.gif"
-width="100%">
+width="50%">
 
 ### **Issues with the current design**
 - Sleek design removes the separation between each of the buttons
@@ -43,3 +43,10 @@ The microwave signals to the user when the cooking time is over by playing a not
 ### **What are some common mistakes you make with this current design**
 
 The current design does not have any features that support disabled individuals. There are no indicators to show the separation of each button, so users might misclick easier. The buttons also do not have any sort of backlight so users must have the lights on to use it. The button ‘Cook’ on the microwave is very vague as there are already buttons for cook time and starting the microwave. Users might misuse the cook, reheat, defrost and soften/melt buttons since they are vague without looking at the cooking guide within. Another common mistake would be to also put things that are not microwave-safe inside of the microwave, although that might be a design error for those objects.
+
+### **My microwave design**
+
+<img src = "./assets/MicrowaveDesign.gif"
+width="70%">
+
+My design incorporated the positive features from my microwave and got rid of unnecessary functions. Instead of having a flat interface, my microwave design has individual buttons so it is easier to navigate especially for disabled individuals. My design would also have elevated letters or numbers so that a person could distinguish the characters without looking. I found the cook, cook time, reheat buttons redundant or unnecessary so I removed them entirely. It is very common to have shortcut buttons for common foods so I included buttons for those. I color coded them to stand out from the numbered buttons. I used icons to simplify the buttons design, and added an ad 30 seconds button since it’s the most commonly used button.
